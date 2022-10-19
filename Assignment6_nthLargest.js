@@ -1,6 +1,6 @@
 
 let arr = [3,45,6,7,23,5,7,8];
-var n = parseInt(prompt("Enter the number: "));
+var n = 3
 console.log(find_largest(arr, n));
 
 
